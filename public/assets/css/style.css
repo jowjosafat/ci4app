@@ -1,0 +1,13 @@
+td.highlight {
+  background-color: whitesmoke !important;
+}
+
+@media print {
+}
+
+.bg {
+  background-image: url("http://localhost/ci4app/public/assets/img/pabrik2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
